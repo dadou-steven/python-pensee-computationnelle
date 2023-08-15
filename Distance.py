@@ -14,3 +14,5 @@ origin = Classes(0, 0)
 
 print(c.distance(origin))
 print(Classes.distance(c, origin))
+
+# https://github.com/dadou-steven/mathematical/blob/main/src/main/java/appsinc/fr/lesmaths/Distance.java
