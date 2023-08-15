@@ -20,3 +20,5 @@ while not guessed:
         print("Désolé, je n'ai pas compris votre contribution.")
 
 print("La partie est términéee. Votre numéro sécret était : ", guess)
+
+# https://github.com/dadou-steven/mathematical/blob/main/src/main/java/appsinc/fr/lesmaths/GuessAndCheck.java
