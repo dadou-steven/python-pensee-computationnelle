@@ -12,3 +12,5 @@ def fact_iter(n):
 
 
 print(fact_iter(3))
+
+# https://github.com/dadou-steven/mathematical/blob/main/src/main/java/appsinc/fr/lesmaths/FactorielIter.java
