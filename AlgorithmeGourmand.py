@@ -61,3 +61,4 @@ calories = [123, 154, 258, 354, 365, 150, 95, 195]
 foods = buildMenu(names, values, calories)
 testAlgorithmeFlexibles(foods, 750)
 
+# https://github.com/dadou-steven/mathematical/blob/main/src/main/java/appsinc/fr/lesmaths/AlgorithmeGourmand.java
