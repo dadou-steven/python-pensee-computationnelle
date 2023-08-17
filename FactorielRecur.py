@@ -11,3 +11,5 @@ def fact_recur(n):
 
 
 print(fact_recur(3))
+
+# https://github.com/dadou-steven/mathematical/blob/main/src/main/java/appsinc/fr/lesmaths/FactorielRecur.java
