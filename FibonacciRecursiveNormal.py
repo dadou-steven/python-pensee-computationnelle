@@ -7,3 +7,6 @@ def fib(n):
 
 for i in range(101):
     print("fib(" + str(i) + ") =", fib(i))
+
+
+# https://github.com/dadou-steven/mathematical/blob/main/src/main/java/appsinc/fr/lesmaths/FibonacciRecursiveNormal.java
