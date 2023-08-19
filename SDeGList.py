@@ -11,3 +11,6 @@ while n != 1:
     else:
         n = 3 * n + 1
 print(n)
+
+
+# https://github.com/dadou-steven/mathematical/blob/main/src/main/java/appsinc/fr/lesmaths/SDeGArray.java
