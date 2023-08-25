@@ -17,3 +17,7 @@ def fastFib(n, memo={}):
 
 for i in range(101):
     print("fastFib(" + str(i) + ") =", fastFib(i))
+
+
+
+# Slow mode : https://github.com/dadou-steven/python-pensee-computationnelle/blob/main/FibonacciRecursiveNormal.py
