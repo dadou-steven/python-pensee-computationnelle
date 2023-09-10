@@ -8,6 +8,7 @@ def fib(n):
 for i in range(101):
     print("fib(" + str(i) + ") =", fib(i))
 
-
-# Slow mode in Java : https://github.com/dadou-steven/mathematical/blob/main/src/main/java/appsinc/fr/lesmaths/FibonacciRecursiveNormal.java
-# Fast mode in Python : https://github.com/dadou-steven/python-pensee-computationnelle/blob/main/FibonacciRecursivePerformance.py
+# Slow mode in Java :
+# https://github.com/dadou-steven/mathematical/blob/main/src/main/java/appsinc/fr/lesmaths/FibonacciRecursiveNormal.java
+# Fast mode in Python :
+# https://github.com/dadou-steven/python-pensee-computationnelle/blob/main/FibonacciRecursivePerformance.py
